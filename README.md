@@ -75,3 +75,5 @@ The manual lives in [`manual/`](manual/), which is its authoritative source.
 ## License
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+<!-- Distro Lab: a test of building a pull request. -->
